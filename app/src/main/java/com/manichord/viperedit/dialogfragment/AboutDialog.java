@@ -77,7 +77,7 @@ public class AboutDialog extends DialogFragment {
                 R.string.about_message));
 
         View view = new DialogHelper.Builder(context)
-                .setIcon(getResources().getDrawable(R.drawable.ic_launcher))
+                .setIcon(getResources().getDrawable(R.mipmap.ic_launcher))
                 .setTitle(getVersionName(context))
                 .setMessage(message)
                 .createCommonView();
