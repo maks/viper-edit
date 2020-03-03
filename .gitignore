@@ -67,3 +67,4 @@ Thumbs.db
 turbo-editor.jks
 keystore.properties
 app/src/main/resources/sentry.properties
+app/release/
