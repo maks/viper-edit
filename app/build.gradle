@@ -27,8 +27,8 @@ buildscript {
 }
 
 apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 
 repositories {
     mavenCentral()
@@ -41,11 +41,11 @@ android {
     compileSdkVersion 29
     buildToolsVersion '29.0.2'
     defaultConfig {
-        applicationId "com.maskyn.fileeditor"
+        applicationId "com.manichord.viperedit"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 47
-        versionName "1.19"
+        versionCode 2
+        versionName "1.0"
     }
     compileOptions {
         sourceCompatibility 1.8
@@ -80,9 +80,34 @@ android {
 }
 
 dependencies {
-    implementation project(':shared')
     implementation "androidx.core:core-ktx:1.1.0"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+
+    api 'androidx.appcompat:appcompat:1.1.0'
+    api 'com.github.mukeshsolanki:MarkdownView-Android:1.0.8'
+
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'commons-io:commons-io:2.6'
+    implementation 'com.github.gabrielemariotti.changeloglib:changelog:2.1.0'
+    implementation 'com.github.albfernandez:juniversalchardet:2.3.0'
+
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.2'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.2'
+
+    implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-common-java8:$lifecycle_version"
+
+    implementation 'io.sentry:sentry-android:1.7.30'
+
+// this dependency is not required if you are already using your own
+// slf4j implementation
+    implementation 'org.slf4j:slf4j-nop:1.7.25'
+
+    testImplementation 'junit:junit:4.12'
+    implementation 'androidx.fragment:fragment-ktx:1.1.0'
 }
 
 task incrementVersionCode {

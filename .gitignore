@@ -50,6 +50,7 @@ local.properties
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 *.iml
+.idea/caches
 
 # OS-specific files
 .DS_Store
@@ -65,3 +66,4 @@ Thumbs.db
 # Signing
 turbo-editor.jks
 keystore.properties
+app/src/main/resources/sentry.properties
