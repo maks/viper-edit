@@ -33,8 +33,8 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 
 import it.gmariotti.changelibs.library.view.ChangeLogListView;
+
 import com.manichord.viperedit.R;
-import com.manichord.viperedit.util.Build;
 
 public class ChangelogDialog extends DialogFragment {
 
@@ -60,11 +60,7 @@ public class ChangelogDialog extends DialogFragment {
                 .setTitle(R.string.changelog)
                 .setView(chgList)
                 .setNegativeButton(android.R.string.cancel,
-                        new DialogInterface.OnClickListener() {
-                            public void onClick(DialogInterface dialog, int whichButton) {
-                                dialog.dismiss();
-                            }
-                        }
+                        (dialog, whichButton) -> dialog.dismiss()
                 )
                 .setPositiveButton(R.string.vota, new DialogInterface.OnClickListener() {
                     /**
@@ -73,14 +69,8 @@ public class ChangelogDialog extends DialogFragment {
                     @Override
                     public void onClick(final DialogInterface dialog, final int which) {
                         try {
-                            if (Build.FOR_AMAZON) {
-                                String url = "amzn://apps/android?p=com.maskyn.fileeditor";
-                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url))
-                                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
-                            } else {
-                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.maskyn.fileeditor"))
-                                        .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
-                            }
+                            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.manichord.viperedit"))
+                                    .setFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
                         } catch (Exception e) {
                         }
                     }

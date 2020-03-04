@@ -56,12 +56,12 @@ import com.manichord.viperedit.adapter.AdapterDetailedList;
 import com.manichord.viperedit.dialogfragment.EditTextDialog;
 import com.manichord.viperedit.preferences.PreferenceHelper;
 import com.manichord.viperedit.util.AlphanumComparator;
-import com.manichord.viperedit.util.Build;
 import com.manichord.viperedit.util.ThemeUtils;
 
 public class SelectFileActivity extends AppCompatActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemClickListener, EditTextDialog.EditDialogListener {
 
     private static final String ActionKey = "action";
+    private static final long MAX_FILE_SIZE = 20_000;
 
     private String currentFolder;
     private ListView listView;
@@ -349,7 +349,7 @@ public class SelectFileActivity extends AppCompatActivity implements SearchView.
                                         ""));
                             } else if (f.isFile()
                                     && !FilenameUtils.isExtension(f.getName().toLowerCase(), unopenableExtensions)
-                                    && FileUtils.sizeOf(f) <= Build.MAX_FILE_SIZE * FileUtils.ONE_KB) {
+                                    && FileUtils.sizeOf(f) <= MAX_FILE_SIZE * FileUtils.ONE_KB) {
                                 final long fileSize = f.length();
                                 SimpleDateFormat format = new SimpleDateFormat("MMM dd, yyyy  hh:mm a");
                                 String date = format.format(f.lastModified());

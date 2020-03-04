@@ -62,6 +62,7 @@
 
                 <data android:mimeType="text/plain" />
                 <data android:mimeType="text/markdown" />
+                <data android:mimeType="text/css" />
                 <data android:mimeType="application/javascript" />
                 <data android:mimeType="application/json" />
                 <data android:host="*" />
