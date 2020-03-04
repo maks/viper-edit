@@ -3,7 +3,7 @@
 <changelog bulletedList="true">
 
     <changelogversion versionName="1.1.2" changeDate="Feb 4, 2020">
-        <changelogtext>Update changelog</changelogtext>
+        <changelogtext>Fix CSS mimetype file handling</changelogtext>
     </changelogversion>
 
     <changelogversion versionName="1.1.0" changeDate="Feb 4, 2020">

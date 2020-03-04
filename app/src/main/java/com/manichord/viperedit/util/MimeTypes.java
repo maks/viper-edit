@@ -22,7 +22,7 @@ package com.manichord.viperedit.util;
 public class MimeTypes {
     public static final String[] MIME_CODE = {
     	    "cs", "php", "js", "java", "py", "rb", "aspx", "cshtml", "vbhtml", "go", "c", "h", "cc", "cpp", "hh", "hpp", "pl", "pm", "t", "pod",
-            "m", "f", "for", "f90", "f95", "asp", "json", "wiki", "lua", "r", "dart", "ts", "css"
+            "m", "f", "for", "f90", "f95", "asp", "json", "wiki", "lua", "r", "dart", "ts", "css", "rs"
     };
     public static final String[] MIME_HTML = {
             "htm", "html", "xhtml"
