@@ -35,7 +35,6 @@ import android.view.LayoutInflater;
 import it.gmariotti.changelibs.library.view.ChangeLogListView;
 
 import com.manichord.viperedit.R;
-import com.manichord.viperedit.util.Build;
 
 public class ChangelogDialog extends DialogFragment {
 
