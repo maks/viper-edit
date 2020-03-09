@@ -3,14 +3,14 @@
 <!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
-  ~ This file is part of Turbo Editor.
+  ~ This file is part of Viper Editor.
   ~
-  ~ Turbo Editor is free software: you can redistribute it and/or modify
+  ~ Viper Editor is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ Turbo Editor is distributed in the hope that it will be useful,
+  ~ Viper Editor is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
   ~ GNU General Public License for more details.
@@ -22,7 +22,7 @@
   <string name="close">閉じる</string>
   <string name="about_action">アプリについて</string>
   <string name="about_message"><![CDATA[
-        Turbo Editor はフリーで <a href="http://github.com/vmihalachi/turbo-editor">オープン ソース</a> のアプリです.
+        Viper Editor はフリーで <a href="http://github.com/vmihalachi/turbo-editor">オープン ソース</a> のアプリです.
         Copyright 2013-2014 <a href="https://plus.google.com/+VladMihalachi">Vlad Mihalachi</a>. All Rights Reserved.<br/>
         <br/>
         <a href="http://crowdin.net/project/turbo-client">翻訳にご協力いただいた</a> あるいは
