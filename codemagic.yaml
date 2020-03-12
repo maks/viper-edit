@@ -31,7 +31,7 @@ workflows:
         echo "sdk.dir=$HOME/programs/flutter" > "$FCI_BUILD_DIR/local.properties"
       - |
         # build android
-        yes | sudo ~/Library/Android/sdk/tools/bin/sdkmanager --licenses  
+        yes | sdkmanager --licenses  
         cd $FCI_BUILD_DIR && ./gradlew :app:bundleDebug
     artifacts:
       - build/**/outputs/**/*.apk
