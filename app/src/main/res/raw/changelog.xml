@@ -2,6 +2,10 @@
 
 <changelog bulletedList="true">
 
+    <changelogversion versionName="1.1.3" changeDate="Mar 12, 2020">
+        <changelogtext>New app icon</changelogtext>
+    </changelogversion>
+
     <changelogversion versionName="1.1.2" changeDate="Feb 4, 2020">
         <changelogtext>Fix CSS mimetype file handling</changelogtext>
     </changelogversion>
