@@ -3,14 +3,14 @@
 <!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
-  ~ This file is part of Turbo Editor.
+  ~ This file is part of Viper Editor.
   ~
-  ~ Turbo Editor is free software: you can redistribute it and/or modify
+  ~ Viper Editor is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ Turbo Editor is distributed in the hope that it will be useful,
+  ~ Viper Editor is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
   ~ GNU General Public License for more details.
@@ -22,7 +22,7 @@
   <string name="donation_action">Lahjoita</string>
   <string name="donation_title">Lahjoita kehittäjälle</string>
   <string name="donation_info"><![CDATA[
-        Turbo Editor on ilmainen ja <a href="http://github.com/vmihalachi/turbo-editor/">avoimen lähdekoodin</a> sovellus.
+        Viper Editor on ilmainen ja <a href="http://github.com/vmihalachi/turbo-editor/">avoimen lähdekoodin</a> sovellus.
         Voit osoittaa kiitoksesi ja tukea kehitystä lahjoittamalla:
     ]]></string>
   <string name="donation_item_bought">Olet lahjoittanut tälle kohteelle jo.</string>

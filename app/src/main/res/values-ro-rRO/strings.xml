@@ -3,14 +3,14 @@
 <!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
-  ~ This file is part of Turbo Editor.
+  ~ This file is part of Viper Editor.
   ~
-  ~ Turbo Editor is free software: you can redistribute it and/or modify
+  ~ Viper Editor is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ Turbo Editor is distributed in the hope that it will be useful,
+  ~ Viper Editor is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
   ~ GNU General Public License for more details.
@@ -61,7 +61,7 @@
   <string name="codifica">Codificare</string>
   <string name="condividi">Distribuiți</string>
   <string name="info">Informații</string>
-  <string name="nome_app_turbo_editor">Turbo Editor</string>
+  <string name="nome_app_turbo_editor">Viper Editor</string>
   <string name="preferenze">Preferințe</string>
   <string name="salva">Salvează</string>
   <string name="save_as">Salvează ca</string>

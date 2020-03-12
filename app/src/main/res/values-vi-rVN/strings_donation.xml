@@ -3,14 +3,14 @@
 <!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
-  ~ This file is part of Turbo Editor.
+  ~ This file is part of Viper Editor.
   ~
-  ~ Turbo Editor is free software: you can redistribute it and/or modify
+  ~ Viper Editor is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ Turbo Editor is distributed in the hope that it will be useful,
+  ~ Viper Editor is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
   ~ GNU General Public License for more details.
@@ -21,7 +21,7 @@
 <resources>
   <string name="donation_action">Đóng góp</string>
   <string name="donation_title">Đóng góp cho tác giả</string>
-  <string name="donation_info"><![CDATA[Turbo Editor là một ứng dụng miễn phí và <a href="http://github.com/vmihalachi/turbo-editor/">mã nguồn mở</a>. Bạn có thể thấy sự đánh giá của bạn và hỗ trợ phát triển bằng cách tặng:     ]]></string>
+  <string name="donation_info"><![CDATA[Viper Editor là một ứng dụng miễn phí và <a href="http://github.com/vmihalachi/turbo-editor/">mã nguồn mở</a>. Bạn có thể thấy sự đánh giá của bạn và hỗ trợ phát triển bằng cách tặng:     ]]></string>
   <string name="donation_item_bought">Bạn đã đóng góp cho khoản mục này.</string>
   <string name="donation_2">Một kem</string>
   <string name="donation_4">Tách cà phê</string>

@@ -3,14 +3,14 @@
 <!--
   ~ Copyright (C) 2014 Vlad Mihalachi
   ~
-  ~ This file is part of Turbo Editor.
+  ~ This file is part of Viper Editor.
   ~
-  ~ Turbo Editor is free software: you can redistribute it and/or modify
+  ~ Viper Editor is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ Turbo Editor is distributed in the hope that it will be useful,
+  ~ Viper Editor is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
   ~ GNU General Public License for more details.
@@ -21,7 +21,7 @@
 <resources>
   <string name="close">Sluit</string>
   <string name="about_action">Over</string>
-  <string name="about_message"><![CDATA[Turbo Editor is een gratis en <a href="http://github.com/vmihalachi/turbo-editor">open source</a> app.
+  <string name="about_message"><![CDATA[Viper Editor is een gratis en <a href="http://github.com/vmihalachi/turbo-editor">open source</a> app.
 Copyright 2013-2014 <a href="https://plus.google.com/+VladMihalachi">Vlad Mihalachi</a>. Alle rechten voorbehouden. <br/>
 <br/>
 Veel dank aan allen die <a href="http://crowdin.net/project/turbo-client"> geholpen hebben met vertalen</a> of die gedoneerd hebben aan mij.<br/>
