@@ -27,11 +27,7 @@ workflows:
           -keysize 2048 \
           -validity 10000
       - |
-        # set up local properties
-        echo "sdk.dir=$HOME/programs/flutter" > "$FCI_BUILD_DIR/local.properties"
-      - |
         # build android
-        yes | sudo $ANDROID_HOME/tools/bin/sdkmanager --licenses
         cd $FCI_BUILD_DIR && ./gradlew :app:bundleDebug
     artifacts:
       - build/**/outputs/**/*.apk
