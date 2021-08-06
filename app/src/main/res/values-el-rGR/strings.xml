@@ -61,8 +61,7 @@
   <string name="codifica">Κωδικοποίηση</string>
   <string name="condividi">Μοίρασε</string>
   <string name="info">Πληροφορίες</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Προτιμήσεις</string>
+    <string name="preferenze">Προτιμήσεις</string>
   <string name="salva">Αποθήκευση</string>
   <string name="save_as">Save as</string>
   <string name="menu_syntax_highlight">Επισήμανση σύνταξης</string>

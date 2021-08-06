@@ -79,8 +79,7 @@
   <string name="modifica">Bewerken</string>
   <string name="muovi">Verplaatsen</string>
   <string name="nascondi">Verberg</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Host</string>
+    <string name="host">Host</string>
   <string name="crea_cartella_locale">Nieuwe lokale map</string>
   <string name="crea_cartella_remota">Nieuwe externe map</string>
   <string name="crea_file_remoto">Nieuw extern bestand</string>

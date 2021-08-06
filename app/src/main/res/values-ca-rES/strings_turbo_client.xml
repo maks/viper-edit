@@ -79,8 +79,7 @@
   <string name="modifica">Editar</string>
   <string name="muovi">Mou</string>
   <string name="nascondi">Amagar</string>
-  <string name="nome_app">Client Turbo</string>
-  <string name="host">Hoste</string>
+    <string name="host">Hoste</string>
   <string name="crea_cartella_locale">Nova carpeta local</string>
   <string name="crea_cartella_remota">Nova carpeta remota</string>
   <string name="crea_file_remoto">Nou arxiu remot</string>

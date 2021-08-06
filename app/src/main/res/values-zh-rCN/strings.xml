@@ -61,8 +61,7 @@
   <string name="codifica">编码中</string>
   <string name="condividi">分享</string>
   <string name="info">信息</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">首选项</string>
+    <string name="preferenze">首选项</string>
   <string name="salva">保存</string>
   <string name="save_as">另存为</string>
   <string name="menu_syntax_highlight">高亮语法</string>

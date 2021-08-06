@@ -79,8 +79,7 @@
   <string name="modifica">Szerkesztés</string>
   <string name="muovi">Mozgat</string>
   <string name="nascondi">Elrejtés</string>
-  <string name="nome_app">Turbe Client</string>
-  <string name="host">Hoszt</string>
+    <string name="host">Hoszt</string>
   <string name="crea_cartella_locale">Új helyi mappa</string>
   <string name="crea_cartella_remota">Új távoli mappa</string>
   <string name="crea_file_remoto">Új távoli fájl</string>

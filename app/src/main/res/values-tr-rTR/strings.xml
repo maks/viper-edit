@@ -61,8 +61,7 @@
   <string name="codifica">Kodlama</string>
   <string name="condividi">Paylaş</string>
   <string name="info">Bilgi</string>
-  <string name="nome_app_turbo_editor">Turbo Editör</string>
-  <string name="preferenze">Tercihler</string>
+    <string name="preferenze">Tercihler</string>
   <string name="salva">Kaydet</string>
   <string name="save_as">Farklı kaydet</string>
   <string name="menu_syntax_highlight">Sözdizimi renklendirme</string>

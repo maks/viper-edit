@@ -61,8 +61,7 @@
   <string name="codifica">Kodowanie</string>
   <string name="condividi">Udostępnij</string>
   <string name="info">Informacje</string>
-  <string name="nome_app_turbo_editor">Turbo Edytor</string>
-  <string name="preferenze">Ustawienia</string>
+    <string name="preferenze">Ustawienia</string>
   <string name="salva">Zapisz</string>
   <string name="save_as">Save as</string>
   <string name="menu_syntax_highlight">Podświetlenie składni</string>

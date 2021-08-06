@@ -64,7 +64,7 @@ public class AboutDialog extends DialogFragment {
         Resources res = context.getResources();
         return Html.fromHtml(
                 res.getString(R.string.about_title,
-                        res.getString(R.string.nome_app_turbo_editor), versionName)
+                        res.getString(R.string.app_name_viper_edit), versionName)
         );
     }
 

@@ -61,8 +61,7 @@
   <string name="codifica">Pengkodean</string>
   <string name="condividi">Bagikan</string>
   <string name="info">Info</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Preferensi</string>
+    <string name="preferenze">Preferensi</string>
   <string name="salva">Simpan</string>
   <string name="save_as">Save as</string>
   <string name="menu_syntax_highlight">Sorot sintaks</string>

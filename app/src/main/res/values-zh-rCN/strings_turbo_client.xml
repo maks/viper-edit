@@ -79,8 +79,7 @@
   <string name="modifica">编辑</string>
   <string name="muovi">移动</string>
   <string name="nascondi">隐藏</string>
-  <string name="nome_app">Turbo客户端</string>
-  <string name="host">主机</string>
+    <string name="host">主机</string>
   <string name="crea_cartella_locale">新建本地文件夹</string>
   <string name="crea_cartella_remota">新建远程文件夹</string>
   <string name="crea_file_remoto">新建远程文件</string>

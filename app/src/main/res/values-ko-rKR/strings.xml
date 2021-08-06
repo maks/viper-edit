@@ -61,8 +61,7 @@
   <string name="codifica">인코딩</string>
   <string name="condividi">공유</string>
   <string name="info">정보</string>
-  <string name="nome_app_turbo_editor">터보 에디터</string>
-  <string name="preferenze">환경 설정</string>
+    <string name="preferenze">환경 설정</string>
   <string name="salva">저장</string>
   <string name="save_as">Save as</string>
   <string name="menu_syntax_highlight">구문 하이라이트</string>

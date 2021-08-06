@@ -61,8 +61,7 @@
   <string name="codifica">Кодування</string>
   <string name="condividi">Поділитись</string>
   <string name="info">Інформація</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Налаштування</string>
+    <string name="preferenze">Налаштування</string>
   <string name="salva">Зберегти</string>
   <string name="save_as">Зберегти як</string>
   <string name="menu_syntax_highlight">Підсвітка синтаксису</string>

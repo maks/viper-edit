@@ -79,8 +79,7 @@
   <string name="modifica">Επεξεργασία</string>
   <string name="muovi">Μετακίνηση</string>
   <string name="nascondi">Απόκρυψη</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Διακομιστής</string>
+    <string name="host">Διακομιστής</string>
   <string name="crea_cartella_locale">Νέος τοπικός φάκελος</string>
   <string name="crea_cartella_remota">Νέος απομακρυσμένος φάκελος</string>
   <string name="crea_file_remoto">Νέα απομακρυσμένο αρχείο</string>

@@ -79,8 +79,7 @@
   <string name="modifica">Редагувати</string>
   <string name="muovi">Перемістити</string>
   <string name="nascondi">Приховати</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Хост</string>
+    <string name="host">Хост</string>
   <string name="crea_cartella_locale">Нова локальна папка</string>
   <string name="crea_cartella_remota">Нова віддалена папка</string>
   <string name="crea_file_remoto">Новий файл на сервері</string>

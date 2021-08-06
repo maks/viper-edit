@@ -158,7 +158,7 @@ abstract class MainActivity : AppCompatActivity(), FindTextDialog.SearchDialogIn
             // Open
             mDrawerLayout!!.openDrawer(GravityCompat.START)
             // Set the default title
-            supportActionBar!!.title = getString(R.string.nome_app_turbo_editor)
+            supportActionBar!!.title = getString(R.string.app_name_viper_edit)
         }
         // parse the intent
         parseIntent(intent)
@@ -294,7 +294,7 @@ abstract class MainActivity : AppCompatActivity(), FindTextDialog.SearchDialogIn
                 hideTextEditor()
 
                 // Set the default title
-                supportActionBar!!.title = getString(R.string.nome_app_turbo_editor)
+                supportActionBar!!.title = getString(R.string.app_name_viper_edit)
 
                 closedTheFile()
 
@@ -640,8 +640,8 @@ abstract class MainActivity : AppCompatActivity(), FindTextDialog.SearchDialogIn
                 this,
                 mDrawerLayout,
                 toolbar,
-                R.string.nome_app_turbo_editor,
-                R.string.nome_app_turbo_editor) {
+                R.string.app_name_viper_edit,
+                R.string.app_name_viper_edit) {
 
             override fun onDrawerOpened(drawerView: View) {
                 supportInvalidateOptionsMenu()
@@ -895,7 +895,7 @@ abstract class MainActivity : AppCompatActivity(), FindTextDialog.SearchDialogIn
         //
         mDrawerLayout!!.openDrawer(GravityCompat.START)
         //
-        supportActionBar!!.title = getString(R.string.nome_app_turbo_editor)
+        supportActionBar!!.title = getString(R.string.app_name_viper_edit)
         //
         supportInvalidateOptionsMenu()
         // Replace fragment

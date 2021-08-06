@@ -61,8 +61,7 @@
   <string name="codifica">Mã hoá</string>
   <string name="condividi">Chia sẻ</string>
   <string name="info">Thông tin</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Tuỳ chỉnh</string>
+    <string name="preferenze">Tuỳ chỉnh</string>
   <string name="salva">Lưu</string>
   <string name="save_as">Lưu thành</string>
   <string name="menu_syntax_highlight">Tô sáng cú pháp</string>

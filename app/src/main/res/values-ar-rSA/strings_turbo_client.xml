@@ -79,8 +79,7 @@
   <string name="modifica">تعديل</string>
   <string name="muovi">نقل</string>
   <string name="nascondi">إخفاء</string>
-  <string name="nome_app">العميل توربو</string>
-  <string name="host">استضافة</string>
+    <string name="host">استضافة</string>
   <string name="crea_cartella_locale">مجلد محلي جديد</string>
   <string name="crea_cartella_remota">مجلد عن بعد جديد</string>
   <string name="crea_file_remoto">الملف البعيد جديد</string>

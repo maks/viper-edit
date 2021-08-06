@@ -61,8 +61,7 @@
   <string name="codifica">Verschlüsseln</string>
   <string name="condividi">Teilen</string>
   <string name="info">Informationen</string>
-  <string name="nome_app_turbo_editor">Turbo-Editor</string>
-  <string name="preferenze">Einstellungen</string>
+    <string name="preferenze">Einstellungen</string>
   <string name="salva">Speichern</string>
   <string name="save_as">Speichern unter</string>
   <string name="menu_syntax_highlight">Syntax Hervorhebung</string>

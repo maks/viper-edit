@@ -79,8 +79,7 @@
   <string name="modifica">Redigera</string>
   <string name="muovi">Flytta</string>
   <string name="nascondi">Göm</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Värd/Host</string>
+    <string name="host">Värd/Host</string>
   <string name="crea_cartella_locale">Ny lokal mapp</string>
   <string name="crea_cartella_remota">Ny fjärrmapp</string>
   <string name="crea_file_remoto">Ny fjärrfil</string>

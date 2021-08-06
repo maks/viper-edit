@@ -79,8 +79,7 @@
   <string name="modifica">Düzenle</string>
   <string name="muovi">Taşı</string>
   <string name="nascondi">Gizle</string>
-  <string name="nome_app">Turbo İstemci</string>
-  <string name="host">Ana bilgisayar</string>
+    <string name="host">Ana bilgisayar</string>
   <string name="crea_cartella_locale">Yeni yerel klasör</string>
   <string name="crea_cartella_remota">Yeni uzak klasör</string>
   <string name="crea_file_remoto">Yeni uzak dosya</string>

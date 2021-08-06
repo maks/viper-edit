@@ -79,8 +79,7 @@
   <string name="modifica">Modifica</string>
   <string name="muovi">Sposta</string>
   <string name="nascondi">Nascondi</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Host</string>
+    <string name="host">Host</string>
   <string name="crea_cartella_locale">Nuova cartella locale</string>
   <string name="crea_cartella_remota">Nuova cartella remota</string>
   <string name="crea_file_remoto">Nuovo file remoto</string>

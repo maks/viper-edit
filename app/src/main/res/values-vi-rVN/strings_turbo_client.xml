@@ -79,8 +79,7 @@
   <string name="modifica">Sửa</string>
   <string name="muovi">Chuyển</string>
   <string name="nascondi">Ẩn</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Máy chủ</string>
+    <string name="host">Máy chủ</string>
   <string name="crea_cartella_locale">Thư mục nội bộ mới</string>
   <string name="crea_cartella_remota">Thư mục từ xa mới</string>
   <string name="crea_file_remoto">Tập tin từ xa mới</string>

@@ -79,8 +79,7 @@
   <string name="modifica">Muokkaa</string>
   <string name="muovi">Siirrä</string>
   <string name="nascondi">Piilota</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Osoite</string>
+    <string name="host">Osoite</string>
   <string name="crea_cartella_locale">Uusi paikallinen kansio</string>
   <string name="crea_cartella_remota">Uusi etäkansio</string>
   <string name="crea_file_remoto">Uusi etätiedosto</string>

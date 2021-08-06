@@ -61,8 +61,7 @@
   <string name="codifica">文字エンコード</string>
   <string name="condividi">共有</string>
   <string name="info">情報</string>
-  <string name="nome_app_turbo_editor">ターボ エディター</string>
-  <string name="preferenze">設定</string>
+    <string name="preferenze">設定</string>
   <string name="salva">保存</string>
   <string name="save_as">名前をつけて保存</string>
   <string name="menu_syntax_highlight">構文の強調表示</string>
