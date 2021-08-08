@@ -79,8 +79,7 @@
   <string name="modifica">編集</string>
   <string name="muovi">移動</string>
   <string name="nascondi">非表示</string>
-  <string name="nome_app">ターボ クライアント</string>
-  <string name="host">ホスト</string>
+    <string name="host">ホスト</string>
   <string name="crea_cartella_locale">新しいローカル フォルダー</string>
   <string name="crea_cartella_remota">新しいリモート フォルダー</string>
   <string name="crea_file_remoto">新しいリモート ファイル</string>

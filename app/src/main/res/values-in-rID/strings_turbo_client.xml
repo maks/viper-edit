@@ -79,8 +79,7 @@
   <string name="modifica">Edit</string>
   <string name="muovi">Pindah</string>
   <string name="nascondi">Sembunyikan</string>
-  <string name="nome_app">Klien Turbo</string>
-  <string name="host">Host</string>
+    <string name="host">Host</string>
   <string name="crea_cartella_locale">Folder lokal baru</string>
   <string name="crea_cartella_remota">Folder remote baru</string>
   <string name="crea_file_remoto">File remote baru</string>

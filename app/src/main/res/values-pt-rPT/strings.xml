@@ -61,8 +61,7 @@
   <string name="codifica">Codificação</string>
   <string name="condividi">Partilhar</string>
   <string name="info">Informações</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Preferências</string>
+    <string name="preferenze">Preferências</string>
   <string name="salva">Guardar</string>
   <string name="save_as">Guardar como</string>
   <string name="menu_syntax_highlight">Realce de sintaxe</string>

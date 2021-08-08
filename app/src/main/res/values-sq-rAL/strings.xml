@@ -62,8 +62,7 @@
   <string name="codifica">Encoding</string>
   <string name="condividi">Share</string>
   <string name="info">Te Dhena</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Preferenca</string>
+    <string name="preferenze">Preferenca</string>
   <string name="salva">Save</string>
   <string name="menu_syntax_highlight">Syntax highlight</string>
   <string name="testo_indietro">Undo</string>

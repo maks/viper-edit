@@ -61,8 +61,7 @@
   <string name="codifica">Koodaus</string>
   <string name="condividi">Jaa</string>
   <string name="info">Tiedot</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Asetukset</string>
+    <string name="preferenze">Asetukset</string>
   <string name="salva">Tallenna</string>
   <string name="save_as">Tallenna nimellä</string>
   <string name="menu_syntax_highlight">Syntaksikorostus</string>

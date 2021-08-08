@@ -79,8 +79,7 @@
   <string name="modifica">Rediger</string>
   <string name="muovi">Flyt</string>
   <string name="nascondi">Skjul</string>
-  <string name="nome_app">Turbo Clienet</string>
-  <string name="host">Vært</string>
+    <string name="host">Vært</string>
   <string name="crea_cartella_locale">Ny lokal mappe</string>
   <string name="crea_cartella_remota">Ny fjern mappe</string>
   <string name="crea_file_remoto">New remote file</string>

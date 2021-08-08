@@ -61,8 +61,7 @@
   <string name="codifica">Codifica</string>
   <string name="condividi">Condividi</string>
   <string name="info">Informazioni</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Preferenze</string>
+    <string name="preferenze">Preferenze</string>
   <string name="salva">Salva</string>
   <string name="save_as">Salva con nome</string>
   <string name="menu_syntax_highlight">Colora la sinstassi</string>

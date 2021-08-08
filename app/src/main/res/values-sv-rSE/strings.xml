@@ -61,8 +61,7 @@
   <string name="codifica">Encoding</string>
   <string name="condividi">Dela</string>
   <string name="info">Info</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Inställningar</string>
+    <string name="preferenze">Inställningar</string>
   <string name="salva">Spara</string>
   <string name="save_as">Spara som</string>
   <string name="menu_syntax_highlight">Syntax Markering</string>

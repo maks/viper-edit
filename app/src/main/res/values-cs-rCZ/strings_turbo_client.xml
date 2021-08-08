@@ -79,8 +79,7 @@
   <string name="modifica">Upravit</string>
   <string name="muovi">Přesunout</string>
   <string name="nascondi">Skrýt</string>
-  <string name="nome_app">Turbo Klient</string>
-  <string name="host">Hostitel</string>
+    <string name="host">Hostitel</string>
   <string name="crea_cartella_locale">Nová místní složka</string>
   <string name="crea_cartella_remota">Nová vzdálená složka</string>
   <string name="crea_file_remoto">Nový vzdálený soubor</string>

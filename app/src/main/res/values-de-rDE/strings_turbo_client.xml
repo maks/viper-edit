@@ -79,8 +79,7 @@
   <string name="modifica">bearbeiten</string>
   <string name="muovi">Verschieben</string>
   <string name="nascondi">Ausblenden</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Server</string>
+    <string name="host">Server</string>
   <string name="crea_cartella_locale">Neuer Lokaler-Ordner</string>
   <string name="crea_cartella_remota">Neuer Remote-Ordner</string>
   <string name="crea_file_remoto">Neue Remote-Datei</string>

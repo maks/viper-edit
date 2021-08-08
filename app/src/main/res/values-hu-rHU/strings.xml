@@ -61,8 +61,7 @@
   <string name="codifica">Kódolás</string>
   <string name="condividi">Megosztás</string>
   <string name="info">Információ</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Beállítások</string>
+    <string name="preferenze">Beállítások</string>
   <string name="salva">Ment</string>
   <string name="save_as">Mentés másként</string>
   <string name="menu_syntax_highlight">Szintaxis kiemelés</string>

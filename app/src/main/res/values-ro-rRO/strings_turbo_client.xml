@@ -79,8 +79,7 @@
   <string name="modifica">Editare</string>
   <string name="muovi">Mutați</string>
   <string name="nascondi">Ascunde</string>
-  <string name="nome_app">Turbo Client</string>
-  <string name="host">Server</string>
+    <string name="host">Server</string>
   <string name="crea_cartella_locale">Folder local nou</string>
   <string name="crea_cartella_remota">Folder la distanță nou</string>
   <string name="crea_file_remoto">Fișier la distanță nou</string>

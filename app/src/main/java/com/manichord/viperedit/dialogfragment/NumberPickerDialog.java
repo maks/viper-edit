@@ -66,7 +66,7 @@ public class NumberPickerDialog extends DialogFragment {
                 title = R.string.goto_line;
                 break;
             default:
-                title = R.string.nome_app_turbo_editor;
+                title = R.string.app_name_viper_edit;
                 break;
         }
 

@@ -61,8 +61,7 @@
   <string name="codifica">Kódovanie</string>
   <string name="condividi">Zdieľať</string>
   <string name="info">Informácie</string>
-  <string name="nome_app_turbo_editor">Viper Editor</string>
-  <string name="preferenze">Predvoľby</string>
+    <string name="preferenze">Predvoľby</string>
   <string name="salva">Uložiť</string>
   <string name="save_as">Uložiť ako</string>
   <string name="menu_syntax_highlight">Zvýrazniť syntax</string>
