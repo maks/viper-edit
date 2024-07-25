@@ -48,7 +48,9 @@
             android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
             android:launchMode="singleTop"
             android:windowSoftInputMode="stateUnspecified|adjustResize"
-            android:theme="@style/AppThemeEditorDark">
+            android:theme="@style/AppThemeEditorDark"
+            android:exported="true"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
